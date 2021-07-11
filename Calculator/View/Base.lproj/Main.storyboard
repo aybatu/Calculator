@@ -24,7 +24,7 @@
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h1Y-6K-6Tj">
                                                 <rect key="frame" x="10" y="10" width="394" height="139"/>
-                                                <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="55"/>
+                                                <fontDescription key="fontDescription" name="Avenir-Light" family="Avenir" pointSize="55"/>
                                                 <color key="textColor" systemColor="systemBackgroundColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
@@ -246,7 +246,7 @@
                                                                 <color key="backgroundColor" red="0.47450977560000002" green="0.45098042490000001" blue="0.47843140360000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                                 <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="30"/>
                                                                 <color key="tintColor" systemColor="systemBackgroundColor"/>
-                                                                <state key="normal" title=","/>
+                                                                <state key="normal" title="."/>
                                                                 <connections>
                                                                     <action selector="numPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="862-rX-xaU"/>
                                                                 </connections>
